@@ -1,0 +1,34 @@
+{
+  "crud": [
+    {
+      "name": "Akash dhok",
+      "age": "22",
+      "address": "Saket Nagar",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Adarsh",
+      "age": 25,
+      "address": "Sakti Nagar"
+    },
+    {
+      "id": "3",
+      "name": "Raksha",
+      "age": 27,
+      "address": "Gajanan Colony"
+    },
+    {
+      "id": "4",
+      "name": "Ankur",
+      "age": 28,
+      "address": "Anna Nagar"
+    },
+    {
+      "id": "5",
+      "name": "Anshuman",
+      "age": 26,
+      "address": "Shadol"
+    }
+  ]
+}
